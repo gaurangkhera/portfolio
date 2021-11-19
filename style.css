@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+
+
+*{
+    padding: 10px;
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.intro h1{
+   
+    font-size: 40px;
+    font-family: Shippori Antique;
+}
+
+.intro p{
+    font-size: 30px;
+    margin-top: 3vh;
+    
+}
+
+.intro hr{
+    color: #192a56;
+}
+
+.os p{
+    font-size: 30px;
+    margin-top: 3vh;
+}
+
+.os h1{
+    margin-top: 5vh;
+}
+
+img{
+    
+    border: 3px solid grey;
+    border-radius: 100px;
+}
+
+h1{
+    font-family: shippori antique;
+}
+
+p{
+    font-family: 'Nunito', sans-serif;
+}
+
+.hobbies p{
+    font-size: 30px;
+    margin-top: 3vh;
+}
+
+/* Add a black background color to the top navigation */
+.navbar {
+    background-color: #2d3436;
+    overflow: hidden;
+    font-family: nunito;
+    
+  }
+  
+  /* Style the links inside the navigation bar */
+  .navbar a {
+    float: left;
+    color: #636e72;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  
+  .navbar a:hover {
+
+    color: white;
+  }
+  
+  
+  
