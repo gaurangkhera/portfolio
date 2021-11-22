@@ -56,15 +56,16 @@ p{
     margin-top: 3vh;
 }
 
-/* Add a black background color to the top navigation */
+
 .navbar {
     background-color: #2d3436;
     overflow: hidden;
     font-family: nunito;
     
+    
   }
   
-  /* Style the links inside the navigation bar */
+
   .navbar a {
     float: left;
     color: #636e72;
@@ -79,6 +80,21 @@ p{
 
     color: white;
   }
+
+  .projects p{
+    font-size: 30px;
+    margin-top: 3vh;
+  }
+
+  .projects p a{
+      color: white;
+  }
+
+  .projects p a:hover{
+    color: grey;
+}
+
+
   
   
   
